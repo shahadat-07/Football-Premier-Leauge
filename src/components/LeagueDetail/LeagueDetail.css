@@ -1,0 +1,46 @@
+
+
+.league-detail{
+    background-color: blue;
+    box-shadow: 0 2px 2px rgb(246, 245, 245);
+    border-radius: 5px;
+
+}
+
+.social-connect a{
+    font-size: 18px;
+    display: inline-block;
+    color: #fff;
+    line-height: 1;
+    padding: 8px 0;
+    margin-right: 4px;
+    border-radius: 50px;
+    text-align: center;
+    width: 36px;
+    height: 36px;
+    transition: 0.3s;
+    box-shadow: 0 2px 2px #999;
+}
+p{
+    font-size: 18px;
+}
+
+.league-banner{
+    opacity: 0.5;
+}
+.social-connect a:hover{
+    color: #fff;
+}
+.social-connect .facebook{
+    background-color: #4060A5;
+}
+.social-connect .twitter{
+    background-color: #00ABE3;
+}
+.social-connect .youtube{
+    background-color: red;
+}
+.social-connect .website{
+
+ background-color:#1683DC;
+}

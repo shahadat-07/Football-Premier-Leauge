@@ -1,0 +1,17 @@
+.league{
+    width: 30%;
+    float: left;
+    padding:20px;
+    margin: 10px;
+    text-align: center;
+    border: 1px solid goldenrod;
+    font-size: 20px;
+}
+
+@media screen and (max-width: 600px) {
+    .league {
+      width: 100%;
+      display: block;
+      margin-bottom: 8px;
+    }
+  }
